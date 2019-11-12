@@ -1,0 +1,4 @@
+2019-11-12 11:30:56,949 INFO [root] [Test_iHRM_Emp.py(test_add:35)] - 新增员工日志信息
+2019-11-12 11:30:57,030 WARNING [root] [Test_iHRM_Emp.py(test_delete:77)] - 修改员工日志信息
+2019-11-12 11:31:49,144 INFO [root] [Test_iHRM_Emp.py(test_add:35)] - 新增员工日志信息
+2019-11-12 11:31:49,183 WARNING [root] [Test_iHRM_Emp.py(test_delete:77)] - 修改员工日志信息
